@@ -1,6 +1,6 @@
 
 
-##Problem Three: Merchant's Guide to the Galaxy
+## Problem Three: Merchant's Guide to the Galaxy
 
 You decided to give up on earth after the latest financial collapse left 99.99% of the earth's population with 0.01% of the wealth. Luckily, with the scant sum of money that is left in your account, you are able to afford to rent a spaceship, leave earth, and fly all over the galaxy to sell common metals and dirt (which apparently is worth a lot).
 
@@ -38,7 +38,7 @@ Input to your program consists of lines of text detailing your notes on the conv
 
 You are expected to handle invalid queries appropriately.
 
-####Test input:
+#### Test input:
 glob is I<br>
 prok is V<br>
 pish is X<br>
@@ -52,7 +52,7 @@ how many Credits is glob prok Gold ?<br>
 how many Credits is glob prok Iron ?<br>
 how much wood could a woodchuck chuck if a woodchuck could chuck wood ?<br>
 
-####Test Output:
+#### Test Output:
 pish tegj glob glob is 42<br>
 glob prok Silver is 68 Credits<br>
 glob prok Gold is 57800 Credits<br>
@@ -61,31 +61,31 @@ I have no idea what you are talking about<br>
 
 ***
 
-##About Project
+## About Project
 
 This is a maven project on jdk1.7,unit-testing use JUnit4.11,the main method is at `com.zemo.Main.java`
 
-###How to run
+### How to run
 
 You have two types to test the project
-####Use the unit test:
+#### Use the unit test:
 
 /src/test/java/com.zemo.api.DispatcherTest provide test example completely follow the Input Test from the description 
 
-####Use the Main.java input by yourself
+#### Use the Main.java input by yourself
 
 
 1. enter the root of the project
 2. mvn -DskipTests=true clean install
 3. java -jar ./target/galaxy-trade-1.0.jar or run it by your IDE
 
-###More
+### More
 
 Thanks for your view,here is my contact information:
 
 * **Name:**Zemo(陈泽铭)
 * **Tel:**18782927981
-* **E-mail:**zemochen@gmail.com
+* **E-mail:**zemochen#gmail.com
 
 
 
