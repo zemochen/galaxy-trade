@@ -83,9 +83,9 @@ You have two types to test the project
 
 Thanks for your view,here is my contact information:
 
-* **Name:**Zemo(陈泽铭)
-* **Tel:**18782927981
-* **E-mail:**zemochen#gmail.com
+* **Name:** Zemo
+
+* **E-mail:** zemochen#gmail.com
 
 
 
